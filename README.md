@@ -4,7 +4,7 @@ Swedish coder keyboard layout
 Varför en fork?
 --------------------
 Anledningen till den här forken är att jag använt den här layouten i olika linuxssystem under en längre tid och ville ha en version som fungerar i windows.
--detta är fortfarande work in progress-
+Jag har lagt till ett autohotkey script för att åstadkomma detta.
 
 Varför en ny layout?
 --------------------
@@ -126,5 +126,7 @@ kan nu välja layouten i `Systeminställningar -> Tangentbord -> Textinmatning`.
 Samma princip borde gälla alla Linux-distributioner som använder X11.
 
 
-### Autohotkey
-Anledningen till den här forken är att jag använt den här layouten i olika linuxssystem under en längre tid och ville ha en version som fungerar i windows
+### Windows: Autohotkey
+För att använda layouten, installera autohotkey, och kör swedish-coder.ahk
+för att alltid använda den se till att den körs vid uppstart. Det finns flera sätt att åstadkomma det, ett är att lägga den i 
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup eller vad som är ekvivalent i ditt system (det beror på språkinställningar).
