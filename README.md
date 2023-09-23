@@ -1,6 +1,10 @@
 Swedish coder keyboard layout
 =============================
 
+Varför en fork?
+--------------------
+Anledningen till den här forken är att jag använt den här layouten i olika linuxssystem under en längre tid och ville ha en version som fungerar i windows.
+
 Varför en ny layout?
 --------------------
 
@@ -119,3 +123,7 @@ Kör sedan kommandot `sudo dpkg-reconfigure xkb-data` för att uppdatera cachen.
 kan nu välja layouten i `Systeminställningar -> Tangentbord -> Textinmatning`.
 
 Samma princip borde gälla alla Linux-distributioner som använder X11.
+
+
+### Autohotkey
+Anledningen till den här forken är att jag använt den här layouten i olika linuxssystem under en längre tid och ville ha en version som fungerar i windows
