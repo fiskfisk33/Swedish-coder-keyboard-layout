@@ -4,6 +4,7 @@ Swedish coder keyboard layout
 Varför en fork?
 --------------------
 Anledningen till den här forken är att jag använt den här layouten i olika linuxssystem under en längre tid och ville ha en version som fungerar i windows.
+-detta är fortfarande work in progress-
 
 Varför en ny layout?
 --------------------
