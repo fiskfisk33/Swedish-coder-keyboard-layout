@@ -128,5 +128,6 @@ Samma princip borde gälla alla Linux-distributioner som använder X11.
 
 ### Windows: Autohotkey
 För att använda layouten, installera autohotkey, och kör swedish-coder.ahk
-för att alltid använda den se till att den körs vid uppstart. Det finns flera sätt att åstadkomma det, ett är att lägga den i 
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup eller vad som är ekvivalent i ditt system (det beror på språkinställningar).
+
+För att alltid använda den, se till att den körs vid uppstart. Det finns flera sätt att åstadkomma det, ett är att lägga den i 
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup eller vad som är ekvivalent i ditt system.
